@@ -107,5 +107,5 @@ These projects demonstrate practical experience in:
 
 
 
-# Author
+
 Data Analyst Portfolio Projects developed for learning, analytics practice, and business intelligence reporting.
